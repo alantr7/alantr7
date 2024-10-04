@@ -2,7 +2,7 @@
 
 I'm a self-taught programmer.
 - Currently working on: `CodeBots`
-- Discord: `alantr7`
+- Discord: `alant7`
 - Portfolio: `comming-soon...`
 
 <a href="https://github.com/anuraghazra/convoychat">
