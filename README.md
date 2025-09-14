@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
 I'm a self-taught programmer.
-- Currently working on: `CodeSync`
+- Currently working on: `Torus`
 - Discord: `alant7`
 - Portfolio: `comming-soon...`
 
