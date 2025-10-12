@@ -1,6 +1,4 @@
-### 👋 Hi there
-
-I'm a self-taught programmer.
+### I'm Alan.
 - Currently working on: `Torus`
 - Discord: `alant7`
 - Portfolio: `comming-soon...`
