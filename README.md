@@ -1,7 +1,7 @@
-### I'm Alan.
-- Currently working on: `Torus`
-- Discord: `alant7`
-- Portfolio: `comming-soon...`
+Developer and electrical engineering student.<br>
+\- Currently working on: `Torus`<br>
+\- Discord: `alant7`<br>
+\- Portfolio: `coming-soon...`<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=alantr7&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 <!--
